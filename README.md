@@ -3,7 +3,7 @@ This part includes my contributions to a large-scale project on: "Mathematical d
 
 # Files in this Repository:
 1) Machine_Learning_Python: This file includes implementation of different algorithms on the dataset.
-2) Machine_Learning.cpp: This file includes implementation of KNN algorithm in a C++ project.
+2) Machine_Learning.cpp: This file includes implementation of KNN algorithm in C++ main project.
 3) Numerical_Calculation.cpp: This file includes some of the implemeneted functions of the main project in C++.
 
 # More Details:
