@@ -1,4 +1,4 @@
-# Simulation of Materials Bahavior in Aluminum Industry
+# Simulation of Materials Behavior in Aluminum Industry
 <p align="justify">This part includes my contributions to a large-scale project on: "Mathematical development and C++ implementation of a complex materials behavior for industrial applications". I am working on this project as a graduate student and software developer at Laval University and National Research Council of Canada (NRC) since 2016. In this project, first, I have developed mathematics formulation for a simple scenario. Then step by step we have added more complexity to our mathematics formulation in order to simulate real applications of the industry. For the first time, these mathematics are developed and the achievements are published in form of three journal papers. Finally, an object-oriented C++ model is designed and implemented. In order to increase the computational performace, first I have build new dataset for industrial alloys and then applied machine learning algorithms which help us to increase the accuracy and portability of the developed model.</p>
 
 # Files in this Repository:
